@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="josoa886" /> </p>
 
-- 🔭 I’m currently working on [lvlmind](https://github.com/Josoa886/lvlmindapp)
+- 🔭 I’m currently working on [random_project](https://github.com/Josoa886)
 
-- 🌱 I’m currently learning **React, Typescript and Tailwind**
+- 🌱 I’m currently learning **Firebase, React, Typescript and Tailwind**
 
 - 🤝 I’m looking for help with [lvlmind](https://github.com/Josoa886/lvlmindapp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Josoa886](https://github.com/Josoa886)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, TypeScript - React**
 
 - 📫 How to reach me **josoavonjiniaina13@gmail.com**
 
@@ -56,6 +56,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josoa886&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="josoa886" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josoa886&show_icons=true&locale=en" alt="josoa886" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josoa886&theme=dark" alt="josoa886" /></p>
 
