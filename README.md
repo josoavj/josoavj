@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="josoa886" /> </p>
 
-- 🔭 I’m currently working on [random_project](https://github.com/Josoa886)
+- 🔭 I’m currently working on [Random_projects](https://github.com/Josoa886)
 
 - 🌱 I’m currently learning **Firebase, React, Typescript and Tailwind**
 
 - 🤝 I’m looking for help with [lvlmind](https://github.com/Josoa886/lvlmindapp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Josoa886](https://github.com/Josoa886)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Josoa886)
 
 - 💬 Ask me about **Flutter, TypeScript - React**
 
