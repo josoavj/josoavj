@@ -51,8 +51,11 @@
   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josoa886&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="josoa886" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josoa886&show_icons=true&locale=en" alt="josoa886" /></p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=josoa886&theme=default" alt="In time stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=josoa886&show_icons=true&locale=en" alt="josoa886" />
+</p>
+<p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoa886" alt="josoa886" />
+</p>
 
