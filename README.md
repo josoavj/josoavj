@@ -46,6 +46,7 @@
     <img src="https://skillicons.dev/icons?i=git,bash,linux,androidstudio,windows,vscode,visualstudio,firebase,npm,figma" />
   </a>
 </p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoa886" alt="josoa886" />
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoa886&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="josoa886" />
 </p>
 
