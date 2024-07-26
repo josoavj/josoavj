@@ -50,3 +50,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoa886&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="josoa886" />
 </p>
 
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
