@@ -1,13 +1,13 @@
 <h1 align="center">Hi👋, I'm Josoa</h1>
 <h3 align="center">A Computer Science Student | Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="josoa886" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="josoavj" /> </p>
 
-- 🔭 I’m currently working on [Random_projects](https://github.com/Josoa886)
+- 🔭 I’m currently working on [Random_projects](https://github.com/josoavj)
 
 - 🌱 I’m currently learning **Firebase, React, Typescript and Tailwind**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Josoa886)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/josoavj)
 
 - 💬 Ask me about **Flutter, TypeScript - React**
 
