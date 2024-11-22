@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/josoavj)
 
-- 💬 Ask me about **Flutter, TypeScript - React**
-
 - 📫 How to reach me [my email](josoavonjiniaina13@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
