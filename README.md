@@ -43,9 +43,11 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,linux,debian,windows,androidstudio,pycharm,vscode,firebase,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,debian,arch,kali,windows,androidstudio,pycharm,vscode,firebase,figma,md&perline=4" />
   </a>
 </p>
+
+<h3>Resume:</h3>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoavj&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="josoavj" />
 </p>
