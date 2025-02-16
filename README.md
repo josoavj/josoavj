@@ -1,15 +1,17 @@
 <h1 align="center">Hi👋, I'm Josoa</h1>
-<h3 align="center">A Computer Science Student | Fullstack Developer</h3>
+<h3 align="center">A Computer Science Student | Fullstack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="josoavj" /> </p>
 
 - 🔭 I’m currently working on [Random_projects](https://github.com/josoavj)
 
-- 🌱 I’m currently learning **Firebase, React, Typescript and Tailwind**
+- 🌱 I’m currently learning **Firebase, KivyMD**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/josoavj)
 
 - 📫 How to reach me [my email](josoavonjiniaina13@gmail.com)
+
+- I'm also a Member of [APEXNova Labs](https://github.com/APEXNovaLabs) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,14 +23,14 @@
 <h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,js,kotlin" />
+    <img src="https://skillicons.dev/icons?i=dart,js,kotlin,py" />
   </a>
 </p>
 
 <h3 align="left">Framework:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,tailwind,express,react,ts" />
+    <img src="https://skillicons.dev/icons?i=flutter,tailwind,express,nodejs" />
   </a>
 </p>
 
@@ -41,7 +43,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,linux,androidstudio,windows,vscode,visualstudio,firebase,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,debian,windows,androidstudio,pycharm,vscode,firebase,npm,figma" />
   </a>
 </p>
 <p align="center">
