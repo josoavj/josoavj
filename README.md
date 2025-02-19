@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="josoavj" /> </p>
 
+<a href="https://gitquest.dev/player/josoavj" target="_blank">
+<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+</a>
+
 - 🔭 I’m currently working on [Random_projects](https://github.com/josoavj)
 
 - 🌱 I’m currently learning **Firebase, KivyMD**
@@ -11,7 +15,8 @@
 
 - 📫 How to reach me [my email](josoavonjiniaina13@gmail.com)
 
-- I'm also a Member of [APEXNova Labs](https://github.com/APEXNovaLabs) 
+- I'm also a Member of [APEXNova Labs](https://github.com/APEXNovaLabs)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
