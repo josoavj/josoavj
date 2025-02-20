@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
 </a>
 
-- 🔭 I’m currently working on [Random_projects](https://github.com/josoavj)
-
 - 🌱 I’m currently learning **Firebase, KivyMD**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/josoavj)
@@ -58,5 +56,5 @@
 </p>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
