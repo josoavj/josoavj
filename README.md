@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/josoavj)
 
-- 📫 How to reach me [my email](josoavonjiniaina13@gmail.com)
+- 📫 How to reach me
+  - [email 1](josoavonjiniaina13@gmail.com)
+  - [email 2](josoavonjiniaina@gmail.com)
 
 - I'm also a Member of [APEXNova Labs](https://github.com/APEXNovaLabs)
 
