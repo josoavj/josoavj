@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Josoa</h1>
-<h3 align="center">A Computer Science Student | Fullstack Developer </h3>
+<h3 align="center">A CS Student | Fullstack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="My profile view stat" /> </p>
 
