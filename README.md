@@ -1,5 +1,5 @@
 <h2 align="center">Learning is continuous. Aim to EVOLVE and ADAPT! 🔄🌱</h1>
-<h3 align="center">A CS Student | Fullstack Developer </h3>
+<h3 align="center"> CS Student | Fullstack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="My profile view stat" /> </p>
 
