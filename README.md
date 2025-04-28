@@ -1,6 +1,8 @@
+<!-- Intro -->
 <h2 align="center">Learning is continuous. Aim to EVOLVE and ADAPT! 🔄🌱</h1>
 <h3 align="center"> CS Student | Fullstack Developer </h3>
 
+<!-- Simple Info -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="My profile view stat" /> </p>
 
 <a href="https://gitquest.dev/player/josoavj" target="_blank">
@@ -26,10 +28,10 @@
 
 
 
-<h3 align="left">Tech Stack - Languages:</h3>
+<h3 align="left">Tech Stack - Progamming and Markup Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,js,kotlin,py" />
+    <img src="https://skillicons.dev/icons?i=dart,js,kotlin,py,md" />
   </a>
 </p>
 
@@ -49,10 +51,20 @@
 <h3 align="left">Tools - My utility belt:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,debian,arch,kali,windows,androidstudio,pycharm,vscode,firebase,figma,md&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,androidstudio,pycharm,vscode,firebase,figma&perline=4" />
   </a>
 </p>
 
+
+<h3 align="left">Tools - OS & Environment:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows&perline=4" />
+  </a>
+</p>
+
+
+<!-- Github Stats & Others -->
 <h3>My GitHub Journey:</h3>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoavj&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="My GitHub Trophies" />
