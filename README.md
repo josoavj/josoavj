@@ -28,7 +28,7 @@
 
 
 
-<h3 align="left">Tech Stack - Progamming and Markup Languages:</h3>
+<h3 align="left">Tech Stack - Programming and Markup Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,js,kotlin,py,md" />
