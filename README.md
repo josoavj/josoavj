@@ -3,7 +3,7 @@
 <h3 align="center"> CS Student | Fullstack Developer </h3>
 
 <!-- Simple Info -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josoa886&label=Profile%20views&color=0e75b6&style=flat" alt="My profile view stat" /> </p>
+<a href="https://u8views.com/github/josoavj"><img src="https://u8views.com/api/v1/github/profiles/76913187/views/day-week-month-total-count.svg" width="450" alt="Profile view"></a>
 
 <a href="https://gitquest.dev/player/josoavj" target="_blank">
 <img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
@@ -21,9 +21,9 @@
 
 <h3 align="left">Feel free to contact me via:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/josoavonjiniaina" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/></a>
-<a href="https://www.facebook.com/josoa.vonjiniaina.17" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="My Facebook"/></a>
-<a href="https://discord.gg/joshua173016" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="My discord"/></a>
+<a href="https://www.linkedin.com/in/josoavonjiniaina" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" width="100" alt="My LinkedIn"/></a>
+<!--<a href="https://www.facebook.com/josoa.vonjiniaina.17" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="My Facebook"/></a>-->
+<a href="https://discord.gg/josoavj" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" width="100"  alt="My discord"/></a>
 </p>
 
 
