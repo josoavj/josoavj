@@ -11,6 +11,7 @@
 
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/josoavj)**
+- In my free time, I work on stuff related to Linux, networking, and cybersecurity ..., much of which you can find on [forLinuxUser](https://github.com/josoavj/forLinuxUser)
 
 - 📫 I'm open to collaborations and discussions. You can reach me through:
   - <a href="mailto:josoavonjiniaina13@gmail.com"><img src="https://img.shields.io/badge/email-josoavonjiniaina13%40gmail.com-blue?style=flat-square&logo=gmail"></a>
