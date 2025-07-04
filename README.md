@@ -71,6 +71,10 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoavj&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="My GitHub Trophies" />
 </p>
 
+<p img align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josoavj&show_icons=true&locale=en" alt="josoavj" />
+</p>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
