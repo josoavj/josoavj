@@ -8,11 +8,7 @@
 <!-- Committer Badge -->
 [![committers.top badge](https://user-badge.committers.top/madagascar/josoavj.svg)](https://user-badge.committers.top/madagascar/josoavj)
 
-<!--
-<a href="https://gitquest.dev/player/josoavj" target="_blank">
-<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
--->
-</a>
+[![wakatime](https://wakatime.com/badge/user/018e31cd-5398-488d-a32d-ebe00a363b13.svg)](https://wakatime.com/@018e31cd-5398-488d-a32d-ebe00a363b13)
 
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/josoavj)**
