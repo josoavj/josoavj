@@ -19,7 +19,7 @@
   - <a href="mailto:josoavonjiniaina@gmail.com"><img src="https://img.shields.io/badge/email-josoavonjiniaina%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 - Part of the awesome team at **[APEXNova Labs](https://github.com/APEXNovaLabs)**
-
+- Here’s my portfolio: **[josoavj-portfolio](https://josoavj-portfolio.vercel.app/)**
 
 <h3 align="left">Feel free to contact me via:</h3>
 <p align="left">
