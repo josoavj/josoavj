@@ -1,5 +1,5 @@
 <!-- Intro -->
-<h2 align="center">Learning is continuous. Aim to EVOLVE and ADAPT! 🔄🌱</h1>
+<h2 align="center">Learning is continuous. Aim to EVOLVE and ADAPT!🌱</h1>
 <h3 align="center"> CS Student | Fullstack Developer </h3>
 
 <!-- Simple Info -->
