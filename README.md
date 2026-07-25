@@ -6,7 +6,7 @@
 <a href="https://u8views.com/github/josoavj"><img src="https://u8views.com/api/v1/github/profiles/76913187/views/day-week-month-total-count.svg" width="450" alt="Profile view"></a>
 
 <!-- Committer Badge -->
-[![committers.top badge](https://user-badge.committers.top/madagascar/josoavj.svg)](https://user-badge.committers.top/madagascar/josoavj)
+<!-- [![committers.top badge](https://user-badge.committers.top/madagascar/josoavj.svg)](https://user-badge.committers.top/madagascar/josoavj) -->
 
 [![wakatime](https://wakatime.com/badge/user/018e31cd-5398-488d-a32d-ebe00a363b13.svg)](https://wakatime.com/@018e31cd-5398-488d-a32d-ebe00a363b13)
 
