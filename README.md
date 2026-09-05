@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h2 align="center">Learning is continuous. Aim to EVOLVE and ADAPT!🌱</h1>
-<h3 align="center"> CS Student | Fullstack Developer </h3>
+<h3 align="center"> Fullstack Developer </h3>
 
 <!-- Simple Info -->
 <a href="https://u8views.com/github/josoavj"><img src="https://u8views.com/api/v1/github/profiles/76913187/views/day-week-month-total-count.svg" width="450" alt="Profile view"></a>
@@ -67,10 +67,12 @@
 
 
 <!-- Github Stats & Others -->
+<!--
 <h3>My GitHub Journey:</h3>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoavj&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="My GitHub Trophies" />
 </p>
+-->
 
 <p img align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josoavj&show_icons=true&locale=en" alt="josoavj" />
